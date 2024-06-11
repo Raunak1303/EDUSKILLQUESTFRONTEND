@@ -1,0 +1,75 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "General Competition",
+        "slug": "general competition",
+        "description": "Do the best preparation for your exams by giving test.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": true,
+        "image": "/courses/compressed_q_40_gm.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Class Eight",
+        "slug": "class-eight",
+        "description": "It includes all subject of your class start giving test and master each subject.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/class8_newsize.png" 
+      },
+      {
+        "id": 3,
+        "title": "Class Nine",
+        "slug": "class-nine",
+        "description": "Start testing your preparation of all subjects.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/class9.png" 
+      },
+      {
+        "id": 4,
+        "title": "Class Tenth",
+        "slug": "class-tenth",
+        "description": "Enhance your boards preparation by excelling over each subject.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/class10.png" 
+      },
+      {
+        "id": 5,
+        "title": "Class Eleventh",
+        "slug": "class-eleventh",
+        "description": "Master your all subjects and check your preparation for exams.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image": "/courses/class11.png"
+      },
+      {
+        "id": 6,
+        "title": "Class Twelve",
+        "slug": "class-twelve",
+        "description": "Learn all your core subjects of all streams and be ready for boards exams and competetitve exams.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": true,
+        "image": "/courses/class12.png"
+      },
+      {
+        "id": 7,
+        "title": "Maths Probability",
+        "slug": "maths-probability",
+        "description": "check your preparation for probability enginnering .",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/probab.png"
+      }      
+    ]
+  }
+  
