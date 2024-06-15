@@ -74,6 +74,7 @@ function Footer() {
           </div>
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
+            <p>Raunak Raj Singh</p>
             <p>Bihar, India</p>
             <p>Patna 80001</p>
             <p>Email: eduskill@quest.com</p>
