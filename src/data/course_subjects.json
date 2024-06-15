@@ -1,0 +1,420 @@
+{
+  "subjects": {
+    "course1": [
+      {
+        "id": "subject1",
+        "title": "PHYSICS",
+        "description": "Introduction to Physics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Introduction to Chapter 2" },
+          { "title": "Chapter 2", "description": "Deep Dive into Chapter 2" }
+        ]
+      },
+      {
+        "id": "subject2",
+        "title": "CHEMISTRY",
+        "description": "Introduction to Chemistry",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Introduction to Chapter 2" },
+          { "title": "Chapter 2", "description": "Deep Dive into Chapter 2" }
+        ]
+      },
+      {
+        "id": "subject3",
+        "title": "BIOLOGY",
+        "description": "Introduction to Biology",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Introduction to Chapter 2" },
+          { "title": "Chapter 2", "description": "Deep Dive into Chapter 2" }
+        ]
+      },
+      {
+        "id": "subject4",
+        "title": "MATHEMATICS",
+        "description": "Introduction to Mathematics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Introduction to Chapter 2" },
+          { "title": "Chapter 2", "description": "Deep Dive into Chapter 2" }
+        ]
+      },
+      {
+        "id": "subject5",
+        "title": "LOGICAL REASONING",
+        "description": "Introduction to Logical Reasoning",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Introduction to Chapter 2" },
+          { "title": "Chapter 2", "description": "Deep Dive into Chapter 2" }
+        ]
+      },
+      {
+        "id": "subject6",
+        "title": "GENERAL APPTITUDE",
+        "description": "Introduction to General aptitude",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Introduction to Chapter 2" },
+          { "title": "Chapter 2", "description": "Deep Dive into Chapter 2" }
+        ]
+      }
+    ],
+    "course2": [
+      {
+        "id": "subject1",
+        "title": "MATHEMATICS",
+        "description": "Introduction to Mathematics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Linear Equation In One Variable" },
+          { "title": "Chapter 2", "description": "Squares And Square Roots" },
+          { "title": "Chapter 3", "description": "Cubes And Cube Roots" },
+          { "title": "Chapter 4", "description": "Algebraic Expressions And Identitites" },
+          { "title": "Chapter 5", "description": "Mensuration" },
+          { "title": "Chapter 6", "description": "Exponents and Powers" },
+          { "title": "Chapter 7", "description": "Direct and Inverse Proportions" }
+        ]
+      },
+      {
+        "id": "subject2",
+        "title": "PHYSICS",
+        "description": "Introduction to Physics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Force and Pressure" },
+          { "title": "Chapter 2", "description": "Friction" },
+          { "title": "Chapter 3", "description": "Sound" },
+          { "title": "Chapter 4", "description": "Light" }
+        ]
+      },
+      {
+        "id": "subject3",
+        "title": "CHEMISTRY",
+        "description": "Introduction to Chemistry",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Materials Metal" },
+          { "title": "Chapter 2", "description": "Coal and Petroleum" },
+          { "title": "Chapter 3", "description": "Combustion And Flame" }
+        ]
+      },
+      {
+        "id": "subject4",
+        "title": "BIOLOGY",
+        "description": "Introduction to Biology",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Crop Production And Management" },
+          { "title": "Chapter 2", "description": "Microorganisms Driend And Foe" },
+          { "title": "Chapter 3", "description": "Cell - Structure and Functions" },
+          { "title": "Chapter 3", "description": "Reproduction In Animals" }
+        ]
+      }
+    ],
+    "course3": [
+      {
+        "id": "subject1",
+        "title": "MATHEMATICS",
+        "description": "Introduction to Mathematics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "INumber Systems" },
+          { "title": "Chapter 2", "description": "Polynomials" },
+          { "title": "Chapter 3", "description": "Linear Equation In Two Variable" },
+          { "title": "Chapter 4", "description": "Lines and Angles" },
+          { "title": "Chapter 5", "description": "Triangles" },
+          { "title": "Chapter 6", "description": "Circles" },
+          { "title": "Chapter 7", "description": "Surface Areas and Volumes" },
+          { "title": "Chapter 8", "description": "Statistics" }
+        ]
+      },
+      {
+        "id": "subject2",
+        "title": "PHYSICS",
+        "description": "Introduction to Physics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Motion" },
+          { "title": "Chapter 2", "description": "Force and Law of Motion" },
+          { "title": "Chapter 3", "description": "Gravitation" },
+          { "title": "Chapter 4", "description": "Work and Energy" },
+          { "title": "Chapter 5", "description": "Sound" }
+        ]
+      },
+      {
+        "id": "subject3",
+        "title": "CHEMISTRY",
+        "description": "Introduction to Chemistry",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Is Matter Around Us Pure" },
+          { "title": "Chapter 2", "description": "Deep Atoms and Molecules" },
+          { "title": "Chapter 3", "description": "Structure of the Atom" }
+        ]
+      },
+      {
+        "id": "subject4",
+        "title": "BIOLOGY",
+        "description": "Introduction to Biology",
+        "chapters": [
+          { "title": "Chapter 1", "description": "The Fundamental Unit Of Life" },
+          { "title": "Chapter 2", "description": "Tissues" },
+          { "title": "Chapter 3", "description": "Diversity In Living Organisms" },
+          { "title": "Chapter 4", "description": "Why do We Fall Ill" },
+          { "title": "Chapter 5", "description": "Natural Resources" }
+        ]
+      }
+    ],
+    "course4": [
+      {
+        "id": "subject1",
+        "title": "MATHEMATICS",
+        "description": "Introduction to Mathematics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Real Numbers" },
+          { "title": "Chapter 2", "description": "Polynomials" },
+          { "title": "Chapter 3", "description": "Pair of Linear Equations In Two Variables" },
+          { "title": "Chapter 4", "description": "Quadratic Equations" },
+          { "title": "Chapter 5", "description": "Arithmetic Progressions" },
+          { "title": "Chapter 6", "description": "Triangles" },
+          { "title": "Chapter 7", "description": "Introduction to Trigonometry" },
+          { "title": "Chapter 8", "description": "Circles" },
+          { "title": "Chapter 9", "description": "Surface Areas and Volumes" },
+          { "title": "Chapter 10", "description": "Statistics" }
+        ]
+      },
+      {
+        "id": "subject2",
+        "title": "PHYSICS",
+        "description": "Introduction to Physics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Light -Reflection and Refraction" },
+          { "title": "Chapter 2", "description": "Electricity" },
+          { "title": "Chapter 3", "description": "Magnetic Effects of Electric Current" }
+        ]
+      },
+      {
+        "id": "subject3",
+        "title": "CHEMISTRY",
+        "description": "Introduction to Chemistry",
+        "chapters": [
+          { "title": "Chapter 1", "description": " Chemical Reactions and Equations" },
+          { "title": "Chapter 2", "description": "Acids, Bases and Salts " },
+          { "title": "Chapter 3", "description": "Metals and Non-metals " },
+          { "title": "Chapter 4", "description": "Carbon and its Compounds" },
+          { "title": "Chapter 5", "description": "Periodic Classification of Elements" }
+        ]
+      },
+      {
+        "id": "subject4",
+        "title": "BIOLOGY",
+        "description": "Introduction to Biology",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Life Processes" },
+          { "title": "Chapter 2", "description": "How Do Organisms Reproduce" },
+          { "title": "Chapter 3", "description": "Heredity and Evolution" },
+          { "title": "Chapter 4", "description": "Control and Coordination" },
+          { "title": "Chapter 5", "description": "Management of Natural Resources" }
+        ]
+      },
+      {
+        "id": "subject5",
+        "title": "BOARDS SPECIAL",
+        "description": "Specially designed for boards",
+        "chapters": [
+          { "title": "Mathematics", "description": "It contains questions from all chapters." },
+          { "title": "Science", "description": "It contains questions from all chapters." }
+        ]
+      }
+    ],
+    "course5": [
+      {
+        "id": "subject1",
+        "title": "MATHEMATICS",
+        "description": "Introduction to Mathematics",
+        "chapters": [
+          { "title": "Chapter 1", "description": " Sets and Functions" },
+          { "title": "Chapter 2", "description": " Trigonometric Functions" },
+          { "title": "Chapter 3", "description": "Complex Numbers and Quadratic Equations" },
+          { "title": "Chapter 4", "description": " Linear Inequalities" },
+          { "title": "Chapter 5", "description": "Permutations and Combinations" },
+          { "title": "Chapter 6", "description": " Binomial Theorem" },
+          { "title": "Chapter 7", "description": "Sequence and Series" },
+          { "title": "Chapter 8", "description": "Coordinate Geometry" },
+          { "title": "Chapter 9", "description": "Limits and Derivatives" },
+          { "title": "Chapter 10", "description": "Statistics" },
+          { "title": "Chapter 11", "description": "Probability" }
+        ]
+      },
+      {
+        "id": "subject2",
+        "title": "PHYSICS",
+        "description": "Introduction to Physics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Units and Measurement" },
+          { "title": "Chapter 2", "description": "Motion In a Straight Line" },
+          { "title": "Chapter 3", "description": "Motion in Plane" },
+          { "title": "Chapter 4", "description": "Laws of Motion" },
+          { "title": "Chapter 5", "description": "Work, Energy and Power" },
+          { "title": "Chapter 6", "description": "Systems of Particles and Rotational Motion" },
+          { "title": "Chapter 7", "description": "Gravitation" },
+          { "title": "Chapter 8", "description": "Mechanical properties of Solids" },
+          { "title": "Chapter 9", "description": "Mechanical properties of fluids" },
+          { "title": "Chapter 10", "description": "Thermal Properties of Matter" },
+          { "title": "Chapter 11", "description": "Thermodynamics" },
+          { "title": "Chapter 12", "description": "Oscillations" },
+          { "title": "Chapter 13", "description": "TWaves" }
+        ]
+      },
+      {
+        "id": "subject3",
+        "title": "CHEMISTRY",
+        "description": "Introduction to Chemistry",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Structure of Atoms" },
+          { "title": "Chapter 2", "description": "Classification of Elements and Periodicity" },
+          { "title": "Chapter 3", "description": "Chemical Bonding And Molecular Structure" },
+          { "title": "Chapter 4", "description": "States Of Matter" },
+          { "title": "Chapter 5", "description": "Thermodynamics" },
+          { "title": "Chapter 6", "description": " Equilibrium" },
+          { "title": "Chapter 7", "description": "Hydrogen" },
+          { "title": "Chapter 8", "description": "The s -Block Elements" },
+          { "title": "Chapter 9", "description": "The p -Block Elements" },
+          { "title": "Chapter 10", "description": "Organic Chemistry- Some Basic Principles And Techniques" },
+          { "title": "Chapter 11", "description": "Hydrocarbons" }
+        ]
+      },
+      {
+        "id": "subject4",
+        "title": "BIOLOGY",
+        "description": "Introduction to Biology",
+        "chapters": [
+          { "title": "Chapter 1", "description": "DIVERSITY IN THE LIVING WORLD" },
+          { "title": "Chapter 2", "description": "STRUCTURAL ORGANISATION IN PLANTS AND ANIMALS" },
+          { "title": "Chapter 3", "description": "STRUCTURAL ORGANISATION IN PLANTS AND ANIMALS" },
+          { "title": "Chapter 4", "description": " PLANT PHYSIOLOGY" },
+          { "title": "Chapter 5", "description": " HUMAN PHYSIOLOGY" }
+        ]
+      },
+      {
+        "id": "subject5",
+        "title": "JEE SPECIAL",
+        "description": "Specially designed for JEE preparataion",
+        "chapters": [
+          { "title": "MATHEMATICS", "description": "All chapters questions included" },
+          { "title": "PHYSICS", "description": "All chapters questions included" },
+          { "title": "CHEMISTRY", "description": "All chapters questions included" }
+        ]
+      },
+      {
+        "id": "subject6",
+        "title": "NEET SPECIAL",
+        "description": "Specially designed for NEET preparataion",
+        "chapters": [
+          { "title": "BIOLOGY", "description": "All chapters questions included" },
+          { "title": "PHYSICS", "description": "All chapters questions included" },
+          { "title": "CHEMISTRY", "description": "All chapters questions included" }
+        ]
+      }
+    ],
+    "course6": [
+      {
+        "id": "subject1",
+        "title": "MATHEMATICS",
+        "description": "Introduction to Mathematics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Relation and Functions" },
+          { "title": "Chapter 2", "description": "Matrices" },
+          { "title": "Chapter 3", "description": "Determinants" },
+          { "title": "Chapter 4", "description": "Continuity and Differentiability" },
+          { "title": "Chapter 5", "description": "Applications of Derivatives" },
+          { "title": "Chapter 6", "description": "Integrals" },
+          { "title": "Chapter 7", "description": "Applications of Integrals" },
+          { "title": "Chapter 8", "description": "Differential Equation" },
+          { "title": "Chapter 9", "description": "Probability" }
+        ]
+      },
+      {
+        "id": "subject2",
+        "title": "PHYSICS",
+        "description": "Introduction to Physics",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Electric Charges And Fields" },
+          { "title": "Chapter 2", "description": "Electrostatic Potential And Capacitance" },
+          { "title": "Chapter 3", "description": "Current Electricity" },
+          { "title": "Chapter 4", "description": "Moving Charges and Magnetism" },
+          { "title": "Chapter 5", "description": "Electromagnetic Induction" },
+          { "title": "Chapter 6", "description": "Alternating Current" },
+          { "title": "Chapter 7", "description": "Ray Optics and Optical Instruments" },
+          { "title": "Chapter 8", "description": "Wave Optics" },
+          { "title": "Chapter 9", "description": "Dual Nature of Radiation and Matter" },
+          { "title": "Chapter 10", "description": "Atoms and Nuclei" },
+          { "title": "Chapter 11", "description": "emiconductor Electronics: Materials, Devices, and Simple Circuits" }
+        ]
+      },
+      {
+        "id": "subject3",
+        "title": "CHEMISTRY",
+        "description": "Introduction to Chemistry",
+        "chapters": [
+          { "title": "Chapter 1", "description": "The Solid State" },
+          { "title": "Chapter 2", "description": "Solutions" },
+          { "title": "Chapter 3", "description": "Electrochemistry" },
+          { "title": "Chapter 4", "description": "Chemical Kinetics" },
+          { "title": "Chapter 5", "description": "Surface Chemistry" },
+          { "title": "Chapter 6", "description": "The p-Block Elements" },
+          { "title": "Chapter 7", "description": "The d-and f-Block Elements" },
+          { "title": "Chapter 8", "description": "Coordination Compounds" },
+          { "title": "Chapter 9", "description": "Haloalkanes and Haloarenes" },
+          { "title": "Chapter 10", "description": " Alcohols, Phenols and Ethers" },
+          { "title": "Chapter 11", "description": " Aldehydes, Ketones and Carboxylic Acids" },
+          { "title": "Chapter 12", "description": "Amines" },
+          { "title": "Chapter 13", "description": "Biomolecules" }
+        ]
+      },
+      {
+        "id": "subject4",
+        "title": "BIOLOGY",
+        "description": "Introduction to Biology",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Reproduction" },
+          { "title": "Chapter 2", "description": " Genetics and Evolution" },
+          { "title": "Chapter 3", "description": "Biology and Human Welfare" },
+          { "title": "Chapter 4", "description": "Biotechnology and its Applications" },
+          { "title": "Chapter 5", "description": "Ecology and Environment" }
+        ]
+      },
+      {
+        "id": "subject5",
+        "title": "JEE SPECIAL",
+        "description": "Specially designed for JEE preparataion",
+        "chapters": [
+          { "title": "MATHEMATICS", "description": "All chapters questions included" },
+          { "title": "PHYSICS", "description": "All chapters questions included" },
+          { "title": "CHEMISTRY", "description": "All chapters questions included" }
+        ]
+      },
+      {
+        "id": "subject6",
+        "title": "NEET SPECIAL",
+        "description": "Specially designed for NEET preparataion",
+        "chapters": [
+          { "title": "BIOLOGY", "description": "All chapters questions included" },
+          { "title": "PHYSICS", "description": "All chapters questions included" },
+          { "title": "CHEMISTRY", "description": "All chapters questions included" }
+        ]
+      },
+      {
+        "id": "subject7",
+        "title": "BOARDS SPECIAL",
+        "description": "Specially designed for boards",
+        "chapters": [
+          { "title": "Mathematics", "description": "All chapters questions included" },
+          { "title": "PHYSICS", "description": "All chapters questions included" },
+          { "title": "CHEMISTRY", "description": "All chapters questions included" },
+          { "title": "BIOLOGY", "description": "All chapters questions included" }
+        ]
+      }
+    ],
+    "course7": [
+      {
+        "id": "subject1",
+        "title": "PROBABILITY",
+        "description": "Introduction to Probability",
+        "chapters": [
+          { "title": "Chapter 1", "description": "Probability" }
+        ]
+      }
+    ]
+  }
+}
