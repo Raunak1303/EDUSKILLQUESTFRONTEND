@@ -46,9 +46,12 @@ const SubjectPage = () => {
             >
               <h2 className="text-2xl font-bold mb-4 text-white-900">{chapter.title}</h2>
               <p className="text-white-700 mb-4">{chapter.description}</p>
-              <button className="px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-full shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl">
-                  Start Test
-                </button>
+              <button 
+                className="px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-full shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl"
+                onClick={() => window.location.href = '/index.html'}
+              >
+                Start Test
+              </button>
             </div>
           ))
         ) : (
